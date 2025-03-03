@@ -18,7 +18,7 @@
  
 
     <!-- Content Section -->
-    <div class="container mx-auto">
+    <div >
         @yield('content')
     </div>
 
